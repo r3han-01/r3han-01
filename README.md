@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there 🙋
 
-<!--
-**r3han-01/r3han-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rehan, a web developer based in India.
 
-Here are some ideas to get you started:
+I design and build on the ideas I imagine, reshaping my ideas into a bunch of snippets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech domain is a full stack web developer.
+
+I have got some projects, but my favourite is _________.
+
+Fun Facts:
+
+ 💠You'll know soon.
+ 
+
+
+  
