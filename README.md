@@ -9,10 +9,15 @@ Hey there 🙋
 📚 Currently Learning
 
   💠React & typescript (Advanced)
+  
   💠Next.js (App Router, Server Components, SSR/SSG)
+  
   💠Mongo database
+  
   💠Springboot
+  
   💠Modern UI/UX Design principles
+  
   💠Performance Optimization techniques
 
 🚀 What Drives Me
