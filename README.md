@@ -6,6 +6,7 @@ Hey there 🙋
   I'm Rehan, a web developer based in India.
   I design and build on the ideas I imagine, reshaping my ideas into a bunch of snippets.
   
+  
 
 📚 Currently Learning
 
@@ -20,6 +21,7 @@ Hey there 🙋
   💠Modern UI/UX Design principles
   
   💠Performance Optimization techniques
+  
 
 
 🚀 What Drives Me
@@ -28,6 +30,7 @@ Hey there 🙋
   Learning new technologies
   Open Source contributions
   Team collaboration
+  
 
   
 🎯 Vision
