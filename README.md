@@ -1,16 +1,29 @@
 Hey there 🙋
 
-I'm Rehan, a web developer based in India.
 
-I design and build on the ideas I imagine, reshaping my ideas into a bunch of snippets.
+☀️Who I am
+  I'm Rehan, a web developer based in India.
+  I design and build on the ideas I imagine, reshaping my ideas into a bunch of snippets.
 
-My skills lies in full stack web development.
+📚 Currently Learning
+  💠React & typescript (Advanced)
+  💠Next.js (App Router, Server Components, SSR/SSG)
+  💠Mongo database
+  💠Springboot
+  💠Modern UI/UX Design principles
+  💠Performance Optimization techniques
 
-I have got some projects, but my favourite is _________.
+🚀 What Drives Me
+  Building meaningful applications
+  Learning new technologies
+  Open Source contributions
+  Team collaboration
+  
+🎯 Vision
+  To become a Full-Stack Developer, mastering both frontend and backend technologies.
 
-Fun Facts:
 
- 💠You'll know soon.
+
  
 
 
